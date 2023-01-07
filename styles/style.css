@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.header {
+    background-image: url(../images/banner/banner2.png);
+    width: 1600px;
+    height: 730px;
+}
+
+.header-description {
+    text-align: end;
+    padding-top: 250px;
+    margin-right: 200px;
+}
+
+.header-head {
+    margin-bottom: 10px;
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    color: #151414;
+
+}
+
+.header-discrip {
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-bottom: 16px;
+
+}
+
+.primary-battn {
+    height: 64px;
+    left: 1210px;
+    background: #F15B22;
+    border-radius: 5px;
+    text-align: right;
+    color: #FFFFFF;
+    border: none;
+}
