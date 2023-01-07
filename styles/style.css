@@ -137,7 +137,7 @@ i {
     margin-top: 50px;
     font-weight: 600;
     font-size: 20px;
-    
+
     text-align: center;
 
     color: #151414
@@ -152,4 +152,38 @@ i {
     text-align: center;
 
     color: #737272;
+}
+
+
+/* last paret css */
+.last-part {
+    background-image: url(../images/watch.png);
+
+    width: 1130px;
+    height: 300px;
+    margin: 100px 50px 100px 100px;
+}
+
+.last-part-header {
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+}
+
+
+.primary-battn-no2 {
+    width: 126.5px;
+    height: 32.24px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+    text-align: center;
+    color: #F15B22;
+    width: 126.5px;
+    border: none;
+    padding: 25px 5px 35px 5px;
+    background: #FFFFFF;
+border-radius: 25px;
+margin-left: 20px;
 }
