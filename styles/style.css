@@ -158,7 +158,9 @@ i {
 
 /* last paret css */
 .last-part {
-    background-image: url(../images/watch.png);
+    background-image: url(../images/gradient2.png),url('../images/watch.png');
+    background-repeat: no-repeat;
+    background-position: bottom right,left;
 
     width: 1130px;
     height: 300px;
