@@ -9,6 +9,7 @@
     background-image: url(../images/banner/banner2.png);
     width: 1600px;
     height: 730px;
+    width: 100%;
 }
 
 .header-description {
@@ -180,10 +181,92 @@ i {
     line-height: 23px;
     text-align: center;
     color: #F15B22;
-    width: 126.5px;
     border: none;
-    padding: 25px 5px 35px 5px;
+    padding: 25px 15px 45px 5px;
     background: #FFFFFF;
-border-radius: 25px;
-margin-left: 20px;
+    border-radius: 25px;
+    margin-left: 20px;
+}
+
+
+/* footer css */
+
+.main-footer {
+    display: flex;
+    background: #151414;
+    width: 1600px;
+    height: 577px;
+    width: 100%;
+}
+
+.fotter-start {
+    padding-left: 400px;
+    padding-top: 200px;
+
+}
+
+.fotter-start-head {
+    width: 148px;
+    height: 53px;
+
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+    margin-bottom: 16px;
+}
+
+.fotter-start-para {
+    color: #FFFFFF;
+    width: 485px;
+    height: 78px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.text {
+    width: 184px;
+    height: 26px;
+    color: #FFFFFF;
+    width: 184px;
+    height: 26px;
+}
+
+.footer-end-head {
+    width: 123px;
+    height: 29px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+    margin-bottom: 15px;
+}
+
+.email-design {
+    background-color: #151414;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border-color: #FFFFFF;
+    padding: 10px 25px 10px 5px;
+    margin-bottom: 20px;
+
+}
+
+
+.last-batton {
+    background: #FFFFFF;
+    border-radius: 8px;
+    width: 170.11px;
+    height: 64px;
+    color: #F15B22;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.footer-end {
+    padding-left: 400px;
+    padding-top: 200px;
 }
