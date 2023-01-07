@@ -96,8 +96,60 @@ div img {
     color: #444343;
     width: 315px;
     height: 26px;
+
 }
-i{
+
+i {
     color: aqua;
-   
+
+}
+
+/*  my work css*/
+
+
+.MY-WORK-HEAD {
+    font-weight: 700;
+    font-size: 40px;
+    width: 179px;
+    height: 47px;
+    color: #151414;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    padding-left: 800px;
+    line-height: 47px;
+}
+
+.working-planed {
+    display: flex;
+    margin-left: 70px;
+}
+
+.images-1 {
+    width: 92.96px;
+    height: 92.96px;
+    padding-left: 100px;
+    padding-right: 80px;
+
+}
+
+.head-1 {
+    padding-left: 50px;
+    margin-top: 50px;
+    font-weight: 600;
+    font-size: 20px;
+    
+    text-align: center;
+
+    color: #151414
+}
+
+.para-1 {
+    padding-left: 90px;
+    margin-top: 10px;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+
+    color: #737272;
 }
